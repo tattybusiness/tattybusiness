@@ -1,6 +1,6 @@
 # 𝗛𝗲𝗹𝗹𝗼！<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px"> 
 
-𝗜'𝗺 [Tatty](https://github.com/tattybusiness)！I'm a full-time student who is passionate about learning full-stack web development and cybersecurity.
+𝗜'𝗺 [Tahlia](https://github.com/tattybusiness)！I'm a full-time student who is passionate about learning full-stack web development and cybersecurity.
 
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?style=flat-square&labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/TattySound)](https://twitter.com/TattySound)
 [![Email Badge](https://img.shields.io/badge/-Email-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tattybusinessonly@gmail.com)](mailto:tattybusinessonly@gmail.com)
