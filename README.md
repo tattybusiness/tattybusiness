@@ -9,7 +9,7 @@
 
 ## 🧐 About
 
-- 👨‍💻 My site: WIP
+- 👨‍💻 My site: [View Here](https://www.tahlia.dev/)
 - 📫 How to reach me: Tatty#7309 (Discord) OR Tattybusinessonly@gmail.com
 - 🌱 Languages and Tools: 
 
